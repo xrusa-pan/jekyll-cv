@@ -1,29 +1,29 @@
-name: Chrysa Panagiotopoulou
+name: John Doe
 support_dark_mode: true
 fork: true
 
 # Sidebar
 contact:
-  email: panagioc@ceid.upatras.γr
-  github: xrusa-pan
-  linkedin: chrysa-panagiotopoulou
-  phone: 6972456060
+  email: info@johndoe.com
+  github: johndoe
+  linkedin: johndoe
+  phone: 
   gitlab: 
   twitter: 
 
 languages:
-  - idiom: Greek
   - idiom: English
-  - idiom: 
+  - idiom: Russian
+  - idiom: French
 
 education:
-  - degree: Diploma of Computer Engineering & Informatics
-    time: 2011-2019
-    university: University of Patras
+  - degree: MSc in Informatics
+    time: 2014-2016
+    university: Ionian University
 
-  - degree: Master in Human-Computer Interaction
-    time: 2023-present
-    university: University of Patras
+  - degree: BSc in Computer Science
+    time: 2010-2014
+    university: Ionian University
 
 skills:
   - category: Backend
@@ -33,74 +33,72 @@ skills:
   - category: Frontend
     skill:
       - React
-      - Html
-      -Css
-      -R
-      -Sql
-      -Php
-      -Javascript
-      -Wordpress
-      -Photoshop 
+      - Typescript
+  - category: DevOps
+    skill:
+      - Docker
+      - Kubernetes 
 
 # Profile
 profile: |
-  My name is Panagiotopoulou Chrysa and I am a graduate of the 
-  Computer Engineering and Informatics Department, University of Patras. 
-  I am trained in many programming languages such as HTML/CSS, PHP/SQL, 
-  Javascript, C/C++, Python, React, Java as well as the MVC software architecture model. 
-  I am actively involved in Web development and design, creating static and dynamic websites as well as e-shops.
-
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
+  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
+  fugiat nulla pariatur.
 # Experience
 experience:
-  - role: Freelancer Web Developer
-    time: 2022-Present
-    company:
+  - role: Software Engineer
+    time: 2020-Present
+    company: Google
     details: |
-     Creating dynamic web pages using WordPress and custom tools based on specific requirements.
-     Editing of website content.
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
+      fugiat nulla pariatur.
     technologies_used: | 
-      Html, Css, Wordpress
+      Go, Angular, Typescript, C++
   
-  - role: Web Developer
-    time: August 2022- Septeber 2022
-    company: Kprdigital, Athens
+  - role: Researcher
+    time: 2016-2020
+    company: Microsoft
     details: |
-      Creating dynamic web pages using WordPress and custom tools based on specific requirements.
-      Editing of website content.
-      Communication with the team via Project Management software.
-
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
+      fugiat nulla pariatur.
     technologies_used: | 
-       Html, Css, Wordpress
+      Python, Tensorflow, Keras, Matlab
+publications:
+  - title: Random title of paper. An interesting one.
+    link: "#"
+    authors: John E. Doe
+    conference: Some conference, 2016
 
-        - role: Web Developer
-    time: Septeber 2020- July 2022
-    company: Tfs, Patras
-    details: |
-      Creating dynamic web pages using WordPress and custom tools based on specific requirements.
-      Editing of website content.
-      Communication with the team via Project Management software.
-
-    technologies_used: | 
-       Html, Css, Wordpress
-
+  - title: Second title of paper. An interesting one too.
+    link: "#"
+    authors: John E. Doe
+    conference: Some conference again, 2018
 
 projects:
-  - title: Credit Risk Managment, Algorithms Implementation in R. 
-    link: #
-    details: |
-      Supervisor: Professor Georgios Pavlidis
-
-
   - title: Cool Project 
     link: #
     details: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
       tempor incididunt ut labore et dolore magna aliqua.
-
+  - title: Cool Project 
+    link: #
+    details: |
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+      tempor incididunt ut labore et dolore magna aliqua.
 # Volunteering
 volunteering:
-  - time: October 2016- Deceber 2016
-    role: Assistance Teaching in Basic Electronics Lab
-    company: Department of Computer Engineering & Informatics
+  - time: 2020-Present
+    role: PR Manager
+    company: Some random organization
     details: |
-     Students Assisting, Testing, exams 
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
