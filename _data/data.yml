@@ -17,7 +17,7 @@ languages:
   
 
 education:
-  - degree: Master Human Computer Interaction
+  - degree: Master Human-Computer Interaction
     time: 2023-present
     university: University of Patras
 
@@ -28,24 +28,25 @@ education:
 skills:
   - category: Backend
     skill: 
-      - Go
-      - Rust
+      - Sql
+      - Java
+      -Php
   - category: Frontend
     skill:
       - React
-      - Typescript
-  - category: DevOps
-    skill:
-      - Docker
-      - Kubernetes 
+      - Javascript
+      -Html
+      -Css
+ 
 
 # Profile
 profile: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-  fugiat nulla pariatur.
+  My name is Panagiotopoulou Chrysas and I am a graduate of the Computer 
+  Engineering and Informatics department of the University of Patras. 
+ I have been trained in several programming languages such as HTML/CSS, 
+ PHP/SQL, Javascript, C/C++, Python, React, Java as well as the MVC software architecture model.
+ I am actively involved in Web development and design, creating static and dynamic websites as well as e-shops
+ 
 # Experience
 experience:
   - role: Software Engineer
