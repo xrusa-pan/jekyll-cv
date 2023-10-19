@@ -12,17 +12,16 @@ contact:
   twitter: 
 
 languages:
+  - idiom: Greek
   - idiom: English
-  - idiom: Russian
-  - idiom: French
 
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
+  - degree: Master Human Computer Interaction
+    time: 2023-present
+    university: University of Patras
 
-  - degree: BSc in Computer Science
-    time: 2010-2014
+  - degree: Diploma of Computer Engeering & Informatics
+    time: 2011-2019
     university: Ionian University
 
 skills:
