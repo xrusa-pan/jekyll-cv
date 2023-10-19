@@ -28,15 +28,16 @@ education:
 skills:
   - category: Backend
     skill: 
-      - Sql
-      - Java
-      -Php
+      - Go
+      - Rust
   - category: Frontend
     skill:
       - React
-      - Javascript
-      -Html
-      -Css
+      - Typescript
+  - category: DevOps
+    skill:
+      - Docker
+      - Kubernetes 
  
 
 # Profile
