@@ -53,38 +53,29 @@ profile: |
 
 # Experience
 experience:
-  - role: Web Developer
-    time: 2021-2022
-    company: Kprdigital, Athens
+  - role: Software Engineer
+    time: 2020-Present
+    company: Google
     details: |
-      Creating dynamic web pages using WordPress and custom tools based on specific requirements.
-      Editing of website content.
-      Communication with the team via Project Management software.
-
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
+      fugiat nulla pariatur.
     technologies_used: | 
-     Wordpress, Html, Css
+      Go, Angular, Typescript, C++
   
-  - role: Freelancer Web Developer
-    time: 2022-present
-    company: Patras
+  - role: Researcher
+    time: 2016-2020
+    company: Microsoft
     details: |
-      Creating dynamic web pages using WordPress and custom tools based on specific requirements.
-      Editing of website content.
-
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
+      fugiat nulla pariatur.
     technologies_used: | 
-     Wordpess, Html, Css
-
-     - role: Web Developer
-    time: 2020-2022
-    company: Tfs, Patras
-    details: |
-     Creating dynamic web pages using WordPress and custom tools based on specific requirements.
-     Editing of website content.
-     Communication with the team via Project Management software.
-
-
-    technologies_used: | 
-     Wordpess, Html, Css
+      Python, Tensorflow, Keras, Matlab
 
 publications:
   - title: Random title of paper. An interesting one.
