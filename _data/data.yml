@@ -42,7 +42,7 @@ skills:
 
 # Profile
 profile: |
- My name is Panagiotopoulos Chrysas and I am a graduate of the Department of
+ My name is Panagiotopoulou Chrysa and I am a graduate of the Department of
  Computer Engineering and Informatics of the University of Patras. 
   I am trained in many programming languages such as HTML/CSS, PHP/SQL, 
   Javascript, C/C++, Python, React, Java as well as the MVC software architecture model. 
@@ -51,29 +51,26 @@ profile: |
 
 # Experience
 experience:
-  - role: Software Engineer
-    time: 2020-Present
-    company: Google
+  - role: Web Developer
+    time: 2021-2022
+    company: Kprdigital, Athens
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      Creating dynamic web pages using WordPress and custom tools based on specific requirements.
+      Editing of website content.
+      Communication with the team via Project Management software.
+
     technologies_used: | 
-      Go, Angular, Typescript, C++
+     Wordpress, Html, Css
   
-  - role: Researcher
-    time: 2016-2020
-    company: Microsoft
+  - role: Freelancer Web Developer
+    time: 2022-present
+    company: 
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      Creating dynamic web pages using WordPress and custom tools based on specific requirements.
+      Editing of website content.
+
     technologies_used: | 
-      Python, Tensorflow, Keras, Matlab
+     Wordpess, Html, Css
 
 publications:
   - title: Random title of paper. An interesting one.
