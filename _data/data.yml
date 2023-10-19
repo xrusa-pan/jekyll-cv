@@ -26,18 +26,12 @@ education:
     university: University of Patras
 
 skills:
-  - category: Backend
-    skill: 
-      - Go
-      - Rust
+  
   - category: Frontend
     skill:
       - React
       - Typescript
-  - category: DevOps
-    skill:
-      - Docker
-      - Kubernetes 
+ 
  
 
 # Profile
