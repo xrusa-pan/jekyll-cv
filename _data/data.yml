@@ -82,11 +82,10 @@ publications:
     conference: Some conference again, 2018
 
 projects:
-  - title: Cool Project 
+  - title: Diploma Thesis 
     link: #
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
+      Credit Risk Managment, Algorithms Implementation in R
 
   - title: Cool Project 
     link: #
