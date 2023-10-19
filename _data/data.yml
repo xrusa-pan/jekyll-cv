@@ -1,55 +1,51 @@
-name: Chrysa Panagiotopoulou
+name: John Doe
 support_dark_mode: true
 fork: true
 
 # Sidebar
 contact:
-  email: panagioc@ceid.upatras.gr
-  github: xrusa-pan
-  linkedin: chrysa-panagiotopoulou
-  phone: 6972456060
+  email: info@johndoe.com
+  github: johndoe
+  linkedin: johndoe
+  phone: 
   gitlab: 
   twitter: 
 
 languages:
-  - idiom: Greek
   - idiom: English
+  - idiom: Russian
   - idiom: French
 
 education:
-  - degree: Master Human 
-  Computer Interaction
-    time: 2023-present
-    university: University of Patras
+  - degree: MSc in Informatics
+    time: 2014-2016
+    university: Ionian University
 
-  - degree: Diploma of Computer 
-  Engineering & Informatics
-    time: 2011-2019
-    university: University of Patras
+  - degree: BSc in Computer Science
+    time: 2010-2014
+    university: Ionian University
 
 skills:
   - category: Backend
     skill: 
-      - Php
-      - Sql
-      - Java
+      - Go
+      - Rust
   - category: Frontend
     skill:
       - React
-      - Javascript
-      - Html
-      - Css
-      - Wordpress
-   
+      - Typescript
+  - category: DevOps
+    skill:
+      - Docker
+      - Kubernetes 
 
 # Profile
 profile: |
- My name is Panagiotopoulou Chrysa and I am a graduate of the Department of
- Computer Engineering and Informatics of the University of Patras. 
-  I am trained in many programming languages such as HTML/CSS, PHP/SQL, 
-  Javascript, C/C++, Python, React, Java as well as the MVC software architecture model. 
-  I am actively involved in the development and design of websites, creating static and
-  dynamic websites as well as online stores
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
+  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
+  fugiat nulla pariatur.
 
 # Experience
 experience:
@@ -77,7 +73,16 @@ experience:
     technologies_used: | 
       Python, Tensorflow, Keras, Matlab
 
+publications:
+  - title: Random title of paper. An interesting one.
+    link: "#"
+    authors: John E. Doe
+    conference: Some conference, 2016
 
+  - title: Second title of paper. An interesting one too.
+    link: "#"
+    authors: John E. Doe
+    conference: Some conference again, 2018
 
 projects:
   - title: Cool Project 
@@ -100,4 +105,4 @@ volunteering:
     details: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
       tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
