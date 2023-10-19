@@ -1,28 +1,29 @@
-name: Chrysa Panagiotopoulou1
+name: John Doe
 support_dark_mode: true
 fork: true
 
 # Sidebar
 contact:
-  email: panagioc@ceid.upatras.gr
-  github: xrusa-pan
-  linkedin: chrysa-panagiotopoulou
-  phone: 6972456060
+  email: info@johndoe.com
+  github: johndoe
+  linkedin: johndoe
+  phone: 
   gitlab: 
   twitter: 
 
 languages:
-  - idiom: Greek
   - idiom: English
-  
-education:
-  - degree: Master Human-Computer Interaction
-    time: 2023-present
-    university: University of Patras
+  - idiom: Russian
+  - idiom: French
 
-  - degree: Diploma of Computer Engineering & Informatics
-    time: 2011-2019
-    university: University of Patras
+education:
+  - degree: MSc in Informatics
+    time: 2014-2016
+    university: Ionian University
+
+  - degree: BSc in Computer Science
+    time: 2010-2014
+    university: Ionian University
 
 skills:
   - category: Backend
@@ -36,16 +37,16 @@ skills:
   - category: DevOps
     skill:
       - Docker
-      - Kubernetes
- 
+      - Kubernetes 
+
 # Profile
 profile: |
-   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
   tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
   quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
   Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
   fugiat nulla pariatur.
- 
+
 # Experience
 experience:
   - role: Software Engineer
@@ -71,6 +72,7 @@ experience:
       fugiat nulla pariatur.
     technologies_used: | 
       Python, Tensorflow, Keras, Matlab
+
 publications:
   - title: Random title of paper. An interesting one.
     link: "#"
@@ -88,11 +90,13 @@ projects:
     details: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
       tempor incididunt ut labore et dolore magna aliqua.
+
   - title: Cool Project 
     link: #
     details: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
       tempor incididunt ut labore et dolore magna aliqua.
+
 # Volunteering
 volunteering:
   - time: 2020-Present
