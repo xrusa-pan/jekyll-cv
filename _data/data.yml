@@ -21,7 +21,7 @@ education:
     time: 2023-present
     university: University of Patras
 
-  - degree: Diploma of Computre Engineering & Informatics
+  - degree: Diploma of Computer Engineering & Informatics
     time: 2011-2019
     university: University of Patras
 
@@ -38,10 +38,7 @@ skills:
       - Html
       - Css
       - Wordpress
-  - category: DevOps
-    skill:
-      - Docker
-      - Kubernetes 
+   
 
 # Profile
 profile: |
