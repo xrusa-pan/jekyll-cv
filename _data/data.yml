@@ -70,16 +70,7 @@ experience:
     technologies_used: | 
       Wordpress, Html, Css
 
-publications:
-  - title: Random title of paper. An interesting one.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference, 2016
 
-  - title: Second title of paper. An interesting one too.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference again, 2018
 
 projects:
   - title: Diploma Thesis 
@@ -87,11 +78,7 @@ projects:
     details: |
       Credit Risk Managment, Algorithms Implementation in R
 
-  - title: Cool Project 
-    link: #
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
+  
 
 # Volunteering
 volunteering:
