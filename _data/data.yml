@@ -17,11 +17,13 @@ languages:
   - idiom: French
 
 education:
-  - degree: Master Human Computer Interaction
+  - degree: Master Human 
+  Computer Interaction
     time: 2023-present
     university: University of Patras
 
-  - degree: Diploma of Computer Engineering & Informatics
+  - degree: Diploma of Computer 
+  Engineering & Informatics
     time: 2011-2019
     university: University of Patras
 
@@ -64,10 +66,22 @@ experience:
   
   - role: Freelancer Web Developer
     time: 2022-present
-    company: 
+    company: Patras
     details: |
       Creating dynamic web pages using WordPress and custom tools based on specific requirements.
       Editing of website content.
+
+    technologies_used: | 
+     Wordpess, Html, Css
+
+     - role: Web Developer
+    time: 2020-2022
+    company: Tfs, Patras
+    details: |
+     Creating dynamic web pages using WordPress and custom tools based on specific requirements.
+     Editing of website content.
+     Communication with the team via Project Management software.
+
 
     technologies_used: | 
      Wordpess, Html, Css
