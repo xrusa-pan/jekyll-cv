@@ -15,7 +15,6 @@ languages:
   - idiom: Greek
   - idiom: English
   
-
 education:
   - degree: Master Human-Computer Interaction
     time: 2023-present
@@ -26,14 +25,19 @@ education:
     university: University of Patras
 
 skills:
-  
+  - category: Backend
+    skill: 
+      - Go
+      - Rust
   - category: Frontend
     skill:
       - React
       - Typescript
+  - category: DevOps
+    skill:
+      - Docker
+      - Kubernetes
  
- 
-
 # Profile
 profile: |
    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
