@@ -33,7 +33,9 @@ skills:
   - category: Frontend
     skill:
       - React
-      - Typescript
+      - Html
+      -Css
+      -Javascript
   - category: DevOps
     skill:
       - Docker
