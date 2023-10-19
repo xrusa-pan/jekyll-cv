@@ -33,9 +33,7 @@ skills:
   - category: Frontend
     skill:
       - React
-      - Html
-      -Css
-      -Javascript
+      - Typescript
   - category: DevOps
     skill:
       - Docker
@@ -44,11 +42,11 @@ skills:
 
 # Profile
 profile: |
-  My name is Panagiotopoulou Chrysas and I am a graduate of the Computer 
-  Engineering and Informatics department of the University of Patras. 
- I have been trained in several programming languages such as HTML/CSS, 
- PHP/SQL, Javascript, C/C++, Python, React, Java as well as the MVC software architecture model.
- I am actively involved in Web development and design, creating static and dynamic websites as well as e-shops
+   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
+  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
+  fugiat nulla pariatur.
  
 # Experience
 experience:
