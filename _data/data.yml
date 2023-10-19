@@ -22,18 +22,22 @@ education:
     university: University of Patras
 
   - degree: Diploma of Computre Engineering & Informatics
-    time: 2010-2014
+    time: 2011-2019
     university: University of Patras
 
 skills:
   - category: Backend
     skill: 
-      - Go
-      - Rust
+      - Php
+      - Sql
+      - Java
   - category: Frontend
     skill:
       - React
-      - Typescript
+      - Javascript
+      - Html
+      - Css
+      - Wordpress
   - category: DevOps
     skill:
       - Docker
