@@ -59,15 +59,7 @@ experience:
     technologies_used: | 
       Wordpress, Html, Css
 
-    - role: Freelancer Web Developer
-    time: 2020-Present
-    company: PC Development
-    details: |
-      Creating dynamic web pages using WordPress and custom tools based on specific requirements.
-      Editing of website content.
-      
-    technologies_used: | 
-      Wordpress, Html, Css
+   
   
   - role: Web Developer
     time: 2021-2022
